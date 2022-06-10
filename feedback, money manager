@@ -1,0 +1,41 @@
+- add bank accounts to income and expenses: 
+	Niba ugiye gukora expense, zive kuri compte. 
+	Niba ngiye gukora income, zijye kuri compte runaka.
+- mind opening balance, every transcation should affect the running balance.
+- mind balances: nimba ninjije amafaranga kuri account, none nkaba ngiye kwinjiza 150,000 ngomba kubona notification ikavuga iti aya mafaranga ntayo ufite ho
+- add transaction date to incomes and expenses
+- add fiscal_years (name start_date end_date)
+- datatables
+ 
+---------------------------------------------------------------------------------------------------------------
+ - Petty cash: transfer money to and from the petty cash account, no cash is ever received in hand
+ - Income report (by account): filter fr yinjiye kuri BK ni angahe? 
+ 	- Liste ya transactions bagiye baricordinga
+ 	- nagement by bank account: income report kuri ecobank, income report kuri bk
+ 	- General income: 
+ 	- BK Ecobank 
+ 	- Expense by bank account
+
+-----------------------------
+
+- income report by account
+- general income report
+- expense report by account
+- general expense report
+- financial report
+- petty cash management => sample to be provided
+
+
+
+--------------------------------
+Trial balance
+Closing Balance
+
+Quarterly reports
+
+Expense: 
+	Check number ===== DONE
+	Invoice number === DONE
+
+Income: 
+	transaction_rf_number === DONE
